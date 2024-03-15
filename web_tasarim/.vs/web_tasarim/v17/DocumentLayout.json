@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\git_repos\\ileri_web_24\\web_tasarim\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|d:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|solutionrelative:web_tasarim\\hafta1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|d:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|solutionrelative:web_tasarim\\hafta1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hafta1.aspx.cs",
+              "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta1.aspx.cs",
+              "RelativeDocumentMoniker": "web_tasarim\\hafta1.aspx.cs",
+              "ToolTip": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta1.aspx.cs",
+              "RelativeToolTip": "web_tasarim\\hafta1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:01:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hafta1.aspx",
+              "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta1.aspx",
+              "RelativeDocumentMoniker": "web_tasarim\\hafta1.aspx",
+              "ToolTip": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta1.aspx",
+              "RelativeToolTip": "web_tasarim\\hafta1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-15T14:01:44.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
