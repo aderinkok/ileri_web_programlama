@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="hafta1.aspx" />
+    <Content Include="hafta2.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,6 +78,13 @@
     </Compile>
     <Compile Include="hafta1.aspx.designer.cs">
       <DependentUpon>hafta1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="hafta2.aspx.cs">
+      <DependentUpon>hafta2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hafta2.aspx.designer.cs">
+      <DependentUpon>hafta2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
