@@ -11,9 +11,15 @@
         <div>
             <table>
                 <tr>
-                    <td colspan="4">Textbox
+                    <td colspan="4">
+                        <asp:TextBox ID="Hesap" runat="server" Height="50px" Width="100%"></asp:TextBox>
                     </td>
                 </tr>
+                <tr>
+    <td colspan="4">
+        <asp:Label runat="server" ID="cikti" Text=""></asp:Label>
+    </td>
+</tr>
                 <tr>
                     <td><asp:Button ID="Yedi" runat="server" Height="50px" Text="7" Width="50px" OnClick="Yedi_Click" /></td>
                     <td><asp:Button ID="Sekiz" runat="server" Height="50px" Text="8" Width="50px" OnClick="Sekiz_Click" /></td>
