@@ -52,6 +52,7 @@ namespace web_tasarim
                 sonuc = sayi1 / sayi2;
                 Hesap.Text = Convert.ToString(sonuc);
             }
+            /* cikti.Text = cikti.Text + Convert.Tos*/
             cikti.Text += Convert.ToString(sayi2);
             cikti.Text += "="+sonuc;
 
