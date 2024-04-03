@@ -3,15 +3,12 @@
   "WorkspaceRootPath": "D:\\git_repos\\ileri_web_24\\web_tasarim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ad\\AppData\\Local\\Temp\\.vsdbgsrc\\9ff35bc6cd45802705e9293c6f66d8a9532d074d6bbe37abaa77f02991712450\\hafta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|d:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|solutionrelative:web_tasarim\\hafta3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|d:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|solutionrelative:web_tasarim\\hafta2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|d:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|solutionrelative:web_tasarim\\hafta2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E779882-EC05-477A-820F-3E1C7E34C056}|web_tasarim\\web_tasarim.csproj|solutionrelative:web_tasarim\\hafta3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,39 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "hafta2.cs",
-              "DocumentMoniker": "C:\\Users\\ad\\AppData\\Local\\Temp\\.vsdbgsrc\\9ff35bc6cd45802705e9293c6f66d8a9532d074d6bbe37abaa77f02991712450\\hafta2.cs",
-              "ToolTip": "C:\\Users\\ad\\AppData\\Local\\Temp\\.vsdbgsrc\\9ff35bc6cd45802705e9293c6f66d8a9532d074d6bbe37abaa77f02991712450\\hafta2.cs [Read Only]",
-              "ViewState": "AQIAADcAAAAAAAAAAAAawEAAAAACAAAA",
+              "Title": "hafta3.aspx.cs",
+              "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta3.aspx.cs",
+              "RelativeDocumentMoniker": "web_tasarim\\hafta3.aspx.cs",
+              "ToolTip": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta3.aspx.cs",
+              "RelativeToolTip": "web_tasarim\\hafta3.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T08:11:58.242Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "hafta2.aspx",
-              "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta2.aspx",
-              "RelativeDocumentMoniker": "web_tasarim\\hafta2.aspx",
-              "ToolTip": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta2.aspx",
-              "RelativeToolTip": "web_tasarim\\hafta2.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-26T07:25:49.593Z",
+              "WhenOpened": "2024-04-02T06:21:47.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "hafta2.aspx.cs",
-              "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta2.aspx.cs",
-              "RelativeDocumentMoniker": "web_tasarim\\hafta2.aspx.cs",
-              "ToolTip": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta2.aspx.cs",
-              "RelativeToolTip": "web_tasarim\\hafta2.aspx.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAIwDgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T07:42:04.743Z",
-              "EditorCaption": ""
+              "Title": "hafta3.aspx",
+              "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta3.aspx",
+              "RelativeDocumentMoniker": "web_tasarim\\hafta3.aspx",
+              "ToolTip": "D:\\git_repos\\ileri_web_24\\web_tasarim\\web_tasarim\\hafta3.aspx",
+              "RelativeToolTip": "web_tasarim\\hafta3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T06:19:43.988Z"
             }
           ]
         }
