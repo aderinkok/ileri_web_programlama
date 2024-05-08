@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|solutionrelative:bilgisayar_programciligi\\hafta4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|d:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|solutionrelative:bilgisayar_programciligi\\hafta4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|d:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|solutionrelative:bilgisayar_programciligi\\hafta2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|solutionrelative:bilgisayar_programciligi\\hafta1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|d:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|solutionrelative:bilgisayar_programciligi\\hafta4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|solutionrelative:bilgisayar_programciligi\\hafta4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3E76C33-5EF2-41BF-87D0-2C7484D0EB32}|bilgisayar_programciligi\\bilgisayar_programciligi.csproj|D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,13 +34,12 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "hafta4.aspx",
               "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta4.aspx",
               "RelativeDocumentMoniker": "bilgisayar_programciligi\\hafta4.aspx",
               "ToolTip": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta4.aspx",
               "RelativeToolTip": "bilgisayar_programciligi\\hafta4.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-04-18T10:15:20.687Z",
               "IsPinned": true,
@@ -45,19 +48,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "hafta2.aspx",
+              "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta2.aspx",
+              "RelativeDocumentMoniker": "bilgisayar_programciligi\\hafta2.aspx",
+              "ToolTip": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta2.aspx",
+              "RelativeToolTip": "bilgisayar_programciligi\\hafta2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T10:44:20.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "hafta4.aspx.cs",
               "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta4.aspx.cs",
               "RelativeDocumentMoniker": "bilgisayar_programciligi\\hafta4.aspx.cs",
               "ToolTip": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta4.aspx.cs",
               "RelativeToolTip": "bilgisayar_programciligi\\hafta4.aspx.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwB8AAAAJAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T10:16:33.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "hafta1.aspx.cs",
               "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta1.aspx.cs",
               "RelativeDocumentMoniker": "bilgisayar_programciligi\\hafta1.aspx.cs",
@@ -70,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "hafta1.aspx",
               "DocumentMoniker": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta1.aspx",
               "RelativeDocumentMoniker": "bilgisayar_programciligi\\hafta1.aspx",
               "ToolTip": "D:\\git_repos\\ileri_web_24\\bilgisayar_programciligi\\bilgisayar_programciligi\\hafta1.aspx",
               "RelativeToolTip": "bilgisayar_programciligi\\hafta1.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-04-18T10:10:27.014Z",
               "EditorCaption": ""
