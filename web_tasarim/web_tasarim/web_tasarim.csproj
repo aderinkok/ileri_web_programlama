@@ -72,6 +72,8 @@
     <Content Include="hafta3.aspx" />
     <Content Include="hafta4.aspx" />
     <Content Include="hafta5.aspx" />
+    <Content Include="hafta6.aspx" />
+    <Content Include="hafta6_1.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -109,6 +111,20 @@
     </Compile>
     <Compile Include="hafta5.aspx.designer.cs">
       <DependentUpon>hafta5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="hafta6.aspx.cs">
+      <DependentUpon>hafta6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hafta6.aspx.designer.cs">
+      <DependentUpon>hafta6.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="hafta6_1.aspx.cs">
+      <DependentUpon>hafta6_1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hafta6_1.aspx.designer.cs">
+      <DependentUpon>hafta6_1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
