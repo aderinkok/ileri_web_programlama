@@ -71,6 +71,11 @@ namespace bilgisayar_programciligi
 
         protected void btn_kaydet_Click(object sender, EventArgs e)
         {
+            if (MultiView1.ActiveViewIndex != MultiView1.Views.Count - 1)
+            {
+                MultiView1.ActiveViewIndex += 1;
+            }
+
             lbl_ad.Text = txt_ad.Text;
             lbl_soyad.Text = txt_soyad.Text;
             lbl_adres.Text = txt_adres.Text;
