@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -31,7 +32,49 @@ namespace web_tasarim
 
         protected void kaydet_Click(object sender, EventArgs e)
         {
+            if (MultiView1.ActiveViewIndex != MultiView1.Views.Count-1)
+            {
+                MultiView1.ActiveViewIndex += 1;
+            }
+            if (gorsel.HasFile) {
+                lbl_bilgi.Text = "";
+                try { 
+                
+                    if(gorsel.PostedFile.ContentType == "image/jpeg")
+                    {
+                        Response.Write(gorsel.PostedFile.ContentType);
+                        string fileName = Path.GetFileName(gorsel.FileName);
+                        if(fileName != "")
+                        {
+                            gorsel.SaveAs(Server.MapPath("~/images/") + fileName);
 
+                            lbl_ad.Text = txt_ad.Text;
+                            lbl_soyad.Text = txt_soyad.Text;
+                            lbl_adres.Text = txt_adres.Text;
+
+                            gorsel_cikti.ImageUrl = "/images/" + fileName;
+                            gorsel_cikti_alternatif.Src = "/images/" + fileName;
+                        }
+                    }
+                    else
+                    {
+                        lbl_bilgi.Text = "JPEG formatında dosya yüklenmelidir.";
+                    }
+                }
+                catch (Exception h) { 
+                
+                
+                }
+             
+
+
+
+            } else
+            {
+                lbl_bilgi.Text = "Dosya bulunamadı";
+            }
+            
+           
         }
 
         protected void btn_geri_Click(object sender, EventArgs e)

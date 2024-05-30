@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace web_tasarim
+namespace bilgisayar_programciligi
 {
 
 
@@ -87,13 +87,13 @@ namespace web_tasarim
         protected global::System.Web.UI.WebControls.FileUpload gorsel;
 
         /// <summary>
-        /// kaydet control.
+        /// btn_kaydet control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button kaydet;
+        protected global::System.Web.UI.WebControls.Button btn_kaydet;
 
         /// <summary>
         /// asama3 control.
@@ -103,6 +103,15 @@ namespace web_tasarim
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.View asama3;
+
+        /// <summary>
+        /// lbl_bilgi control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_bilgi;
 
         /// <summary>
         /// lbl_ad control.
@@ -148,15 +157,6 @@ namespace web_tasarim
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlImage gorsel_cikti_alternatif;
-
-        /// <summary>
-        /// lbl_bilgi control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_bilgi;
 
         /// <summary>
         /// btn_geri control.

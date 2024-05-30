@@ -11,7 +11,7 @@ namespace web_tasarim
 {
 
 
-    public partial class hafta7_1
+    public partial class hafta8
     {
 
         /// <summary>
@@ -22,24 +22,6 @@ namespace web_tasarim
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-
-        /// <summary>
-        /// MultiView1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.MultiView MultiView1;
-
-        /// <summary>
-        /// asama1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.View asama1;
 
         /// <summary>
         /// txt_ad control.
@@ -60,49 +42,121 @@ namespace web_tasarim
         protected global::System.Web.UI.WebControls.TextBox txt_soyad;
 
         /// <summary>
-        /// txt_adres control.
+        /// mezuniyet1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_adres;
+        protected global::System.Web.UI.WebControls.RadioButton mezuniyet1;
 
         /// <summary>
-        /// asama2 control.
+        /// mezuniyet2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.View asama2;
+        protected global::System.Web.UI.WebControls.RadioButton mezuniyet2;
 
         /// <summary>
-        /// gorsel control.
+        /// mezuniyet3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.FileUpload gorsel;
+        protected global::System.Web.UI.WebControls.RadioButton mezuniyet3;
 
         /// <summary>
-        /// kaydet control.
+        /// mezuniyet4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button kaydet;
+        protected global::System.Web.UI.WebControls.RadioButton mezuniyet4;
 
         /// <summary>
-        /// asama3 control.
+        /// cinsiyet control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.View asama3;
+        protected global::System.Web.UI.WebControls.RadioButtonList cinsiyet;
+
+        /// <summary>
+        /// dil1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox dil1;
+
+        /// <summary>
+        /// dil2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox dil2;
+
+        /// <summary>
+        /// dil3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox dil3;
+
+        /// <summary>
+        /// dil4 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox dil4;
+
+        /// <summary>
+        /// dil5 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox dil5;
+
+        /// <summary>
+        /// dil6 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox dil6;
+
+        /// <summary>
+        /// yabanciDil control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBoxList yabanciDil;
+
+        /// <summary>
+        /// btn_kaydet control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_kaydet;
 
         /// <summary>
         /// lbl_ad control.
@@ -123,57 +177,39 @@ namespace web_tasarim
         protected global::System.Web.UI.WebControls.Label lbl_soyad;
 
         /// <summary>
-        /// lbl_adres control.
+        /// lbl_mezuniyet control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_adres;
+        protected global::System.Web.UI.WebControls.Label lbl_mezuniyet;
 
         /// <summary>
-        /// gorsel_cikti control.
+        /// lbl_cinsiyet control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Image gorsel_cikti;
+        protected global::System.Web.UI.WebControls.Label lbl_cinsiyet;
 
         /// <summary>
-        /// gorsel_cikti_alternatif control.
+        /// lbl_dil_bilgisayar control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlImage gorsel_cikti_alternatif;
+        protected global::System.Web.UI.WebControls.Label lbl_dil_bilgisayar;
 
         /// <summary>
-        /// lbl_bilgi control.
+        /// lbl_yabanci_diller control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_bilgi;
-
-        /// <summary>
-        /// btn_geri control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_geri;
-
-        /// <summary>
-        /// btn_ileri control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_ileri;
+        protected global::System.Web.UI.WebControls.Label lbl_yabanci_diller;
     }
 }

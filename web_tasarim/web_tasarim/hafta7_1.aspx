@@ -30,7 +30,8 @@
                 Görsel: <asp:Image runat="server" ID="gorsel_cikti" Width="200px" Height="200px" /><br />
                 <br />
                 Görsel (Alternatif): <img id="gorsel_cikti_alternatif" runat="server" width="200" height="200" />
-            </asp:View>
+                <asp:Label runat="server" ID="lbl_bilgi" Text=""></asp:Label>
+                </asp:View>
 
         </asp:MultiView>
 
